@@ -1,4 +1,4 @@
 ### Hi, my name is Jesse
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Bossman"/>
-<img hidden align="center" src="https://mr-bossman.github.io/Mr-Bossman/joke.svg"/>
+<img style="display:none;" align="center" src="https://mr-bossman.github.io/Mr-Bossman/joke.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bossman&layout=compact&theme=buefy&hide_border=true" />
